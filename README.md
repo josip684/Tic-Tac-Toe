@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-
+# Tic-Tac-Toe
 with Actors and Akka.net tehnology 
